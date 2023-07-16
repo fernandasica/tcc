@@ -1,2 +1,2 @@
-# TCC - ENTROPIA DE AMOSTRA  COMO INDICADOR DE PADRÕES DE COBERTURA DE NUVENS EM SÉRIES TEMPORAIS DE IRRADIÂNCIA SOLAR
+# TCC - Entropia de Amostra como Indicador de Padrões de Cobertura de Nuvens em Séries Temporais de Irradiância Solar
 
